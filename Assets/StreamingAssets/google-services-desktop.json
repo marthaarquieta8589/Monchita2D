@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463969437894",
+    "project_id": "monchita2d",
+    "storage_bucket": "monchita2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463969437894:android:4dfa11cb1f04dd4c12afc7",
+        "android_client_info": {
+          "package_name": "com.patricia.monchita2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXTDx2vsYujh_CL2jEwkfxpgZE9XSCSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
